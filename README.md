@@ -33,17 +33,11 @@
 ![express](https://skillicons.dev/icons?i=express)
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
 
-**Other Backend Technologies**
-
-- Socket.io
-- REST APIs
-- Authentication Systems
-- Real-time Applications
-
 ---
 
 ## ☁️ DevOps & Deployment
 
+![aws](https://skillicons.dev/icons?i=aws)
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
 ![vercel](https://skillicons.dev/icons?i=vercel)
@@ -58,8 +52,8 @@
 
 Design Tools
 
-- Adobe Photoshop
-- Canva
+- ![photoshop](https://skillicons.dev/icons?i=ps)
+- ![figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
@@ -90,22 +84,13 @@ Fast and efficient workflow for coding and documentation.
 # 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evosKaushik&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?user=evosKaushik&theme=dark&hide_border=false)
-
----
-
-# 📈 3D Contribution Graph
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evosKaushik)
-
 
 ---
 
 # 🚀 What I Love Building
 
 - Full Stack Web Applications  
-- Real-time Apps with Socket.io  
 - Modern UI with React  
 - Scalable MERN Applications  
 
