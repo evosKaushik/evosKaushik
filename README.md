@@ -89,8 +89,6 @@ Fast and efficient workflow for coding and documentation.
 
 # 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=evosKaushik&theme=dark&hide_border=false)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evosKaushik&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?user=evosKaushik&theme=dark&hide_border=false)
@@ -99,7 +97,7 @@ Fast and efficient workflow for coding and documentation.
 
 # 📈 3D Contribution Graph
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evosKaushik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evosKaushik)
 
 
 ---
