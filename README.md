@@ -1,28 +1,123 @@
-# I'm Full Stack MERN Developer
-# 💻 Tech Stack:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kaushik%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-## Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+# 👋 Hello, I'm Kaushik
 
-## Backend:
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=evosKaushik&theme=dark&hide_border=false)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=evosKaushik&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![redux](https://skillicons.dev/icons?i=redux)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+
+---
+
+## ⚙️ Backend Development
+
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![express](https://skillicons.dev/icons?i=express)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+
+**Other Backend Technologies**
+
+- Socket.io
+- REST APIs
+- Authentication Systems
+- Real-time Applications
+
+---
+
+## ☁️ DevOps & Deployment
+
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![vercel](https://skillicons.dev/icons?i=vercel)
+![netlify](https://skillicons.dev/icons?i=netlify)
+
+---
+
+## 🛠 Development Tools
+
+![npm](https://skillicons.dev/icons?i=npm)
+![postman](https://skillicons.dev/icons?i=postman)
+
+Design Tools
+
+- Adobe Photoshop
+- Canva
+
+---
+
+# 🎓 Additional Skills
+
+## 📚 ADCA (Advanced Diploma in Computer Applications)
+
+Skills Covered
+
+- MS Word
+- MS Excel
+- MS PowerPoint
+- MS Access
+- Adobe Photoshop
+- Computer Fundamentals
+- Internet Applications
+
+---
+
+## ⌨️ Typing Skills
+
+Typing Speed: **40 WPM**
+
+Fast and efficient workflow for coding and documentation.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=evosKaushik&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=evosKaushik&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evosKaushik&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 3D Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evosKaushik&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/evosKaushik/evosKaushik/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🚀 What I Love Building
+
+- Full Stack Web Applications  
+- Real-time Apps with Socket.io  
+- Modern UI with React  
+- Scalable MERN Applications  
+
+---
+
+⭐ From [Kaushik](https://github.com/evosKaushik)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
