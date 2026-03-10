@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kaushik%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=🚀Kaushik%20|%20MERN%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 # 👋 Hello, I'm Kaushik
 
@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=evosKaushik&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
 
 ---
 
