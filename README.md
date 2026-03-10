@@ -47,13 +47,18 @@
 
 ## 🛠 Development Tools
 
+![bun](https://skillicons.dev/icons?i=bun)
+![yarn](https://skillicons.dev/icons?i=yarn)
 ![npm](https://skillicons.dev/icons?i=npm)
 ![postman](https://skillicons.dev/icons?i=postman)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![linux](https://skillicons.dev/icons?i=linux)
+![vite](https://skillicons.dev/icons?i=vite)
 
 Design Tools
 
-- ![photoshop](https://skillicons.dev/icons?i=ps)
-- ![figma](https://skillicons.dev/icons?i=figma)
+![photoshop](https://skillicons.dev/icons?i=ps)
+![figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
