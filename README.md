@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=🚀Kaushik%20|%20MERN%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=🚀Kaushik%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ## 💻 Passionate Full Stack MERN Developer who loves building modern web applications, experimenting with new technologies, and solving real-world problems through code.
 - 🌐 Full Stack Web Development
