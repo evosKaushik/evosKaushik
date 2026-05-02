@@ -5,7 +5,6 @@
 - ⚡ Real-time Applications
 - 🎨 UI/UX Focused Development
 - 🧠 Always learning new technologies
-
 ---
 
 # 💻 Tech Stack
