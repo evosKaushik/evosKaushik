@@ -21,7 +21,6 @@
 ![tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ---
-
 ## ⚙️ Backend Development
 
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
