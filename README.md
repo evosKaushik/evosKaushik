@@ -8,7 +8,6 @@
 ---
 
 # 💻 Tech Stack
-
 ## 🎨 Frontend Development
 
 ![HTML5](https://skillicons.dev/icons?i=html)
