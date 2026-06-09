@@ -25,6 +25,7 @@
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
 ![express](https://skillicons.dev/icons?i=express)
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
+![redis](https://skillicons.dev/icons?i=redis)
 
 ---
 
