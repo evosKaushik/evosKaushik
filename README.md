@@ -89,11 +89,10 @@ Fast and efficient workflow for coding and documentation.
 # 🚀 What I Love Building
 
 - Full Stack Web Applications  
-- Modern UI with React  
-- Scalable MERN Applications  
+- How things work under the hood
+- Scalable Applications  
 
 ---
 
-⭐ From [Kaushik](https://github.com/evosKaushik)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
