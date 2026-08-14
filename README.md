@@ -14,6 +14,7 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Go-Lang](https://skillicons.dev/icons?i=go)
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
 ![redux](https://skillicons.dev/icons?i=redux)
